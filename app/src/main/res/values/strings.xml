@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Splash</string>
+    <string name="dummy_button">Ingresar</string>
+    <string name="dummy_content">CHACHA\nINGRESO</string>
+
+</resources>
